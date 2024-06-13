@@ -1,4 +1,4 @@
-/ Matching Game
+# Matching Game
 
 Curso de JavaScript para React
 
